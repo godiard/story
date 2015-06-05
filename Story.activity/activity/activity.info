@@ -8,3 +8,29 @@ icon = activity-story
 show_launcher = yes
 summary = prompts learner to tell a story by displaying images at random
 category = language game
+
+# Added fields
+activity_type = gtk3
+homepage = http://wiki.sugarlabs.org/go/Activities/Story
+long_description: Sugar Learning Platform - story activity
+ Sugar Learning Platform promotes collaborative learning through Sugar
+ Activities that encourage critical thinking, the heart of a quality
+ education.  Designed from the ground up especially for children, Sugar
+ offers an alternative to traditional “office-desktop” software.
+ .
+ Learner applications in Sugar are called Activities.  They are software
+ packages that automatically save your work - producing specific
+ instances of the Activity that can be resumed at a later time.  Many
+ Activities support learner collaboration, where multiple learners may
+ be invited to join a collective Activity session.
+ .
+ Story use images to prompt a learner to tell a story. The images can
+ be exported to use in other activities, and the user can write the story
+ or record as audio.
+
+sources_url = http://download.sugarlabs.org/sources/honey/Story/
+sources_format = tar.bz2
+
+[Maintainer]
+name = Walter Bender
+email = walter.bender@gmail.com
