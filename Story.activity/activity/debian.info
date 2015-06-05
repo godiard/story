@@ -4,7 +4,8 @@ version = 0~godiard1
 vcs-git = https://github.com/godiard/story-activity.git
 vcs-browser = https://github.com/godiard/story-activity.git
 primary_branch = debian-packaging
-dependencies = telepathy, gstreamer
+dependencies = telepathy, gstreamer, gstreamer-tools
+# gstreamer-tools is needed to add the command gst-launch used to play audio
 
 [Maintainer]
 name = Debian Sugar Team
