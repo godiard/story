@@ -5,11 +5,11 @@ Source: http://download.sugarlabs.org/sources/honey/Story/
 
 Files: toolbar_utils.py
 Copyright: (c) 2011, Walter Bender
-License: GPLv3
+License: GPL-3
 
 Files: *
 Copyright: Walter Bender
-License: GPLv3
+License: GPL-3
  
  Copyright (C) 2015 Walter Bender
  
